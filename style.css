@@ -39,7 +39,7 @@ svg text {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
-  width: 80%;
+  width: 50%;
   min-width: 18rem;
   margin: auto;
 }
